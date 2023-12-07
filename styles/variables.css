@@ -4,6 +4,8 @@
   --opacity-hover-color-theme: #FF007066;
   --title-color-theme: #DB00FF;
   --content-decor-color-theme: #000028;
+  --color-background-theme: #000028;
   --text-color-theme: #F1B2CE;
+  --color-button: #ff0070;
   --site-padding: clamp(0.625rem, 0.0286rem + 2.5445vw, 1.25rem);
 }

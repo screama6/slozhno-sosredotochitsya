@@ -2,16 +2,18 @@
   --accent-color-theme: #FF8DCB;
   --color-title-decor: #ff0070;
   --opacity-hover-color-theme: #32312D66;
-  --title-color-theme: #FFC2E6;;
+  --title-color-theme: #FFC2E6;
   --content-decor-color-theme: #353430;
+  --color-background-theme: #FF8DCB;
   --text-color-theme: #353430;
+  --color-button: #353430;
   background: url(../images/cover-image-light.png);
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
 }
 
-.theme_light .decor-element  {
+.theme_light .decor-element {
   opacity: 0;
 }
 
@@ -20,11 +22,11 @@
     --accent-color-theme: #FF8DCB;
     --color-title-decor: #ff0070;
     --opacity-hover-color-theme: #32312D66;
-    --title-color-theme: #FFC2E6;;
+    --title-color-theme: #FFC2E6;
     --content-decor-color-theme: #353430;
-    --text-color-theme: #353430;
-        /* Дублируем переменные светлой темы */    
-    }
+    --text-color-theme: #353430; 
+    --color-button: #353430;
+  }
 
   .page {
     background: url(../images/cover-image-light.png);

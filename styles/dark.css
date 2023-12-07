@@ -4,7 +4,9 @@
   --opacity-hover-color-theme: #FF007066;
   --title-color-theme: #DB00FF;
   --content-decor-color-theme: #000028;
+  --color-background-theme: #000028;
   --text-color-theme: #F1B2CE;
+  --color-button: #ff0070;
   background: url(../images/cover-image-dark.png);
   background-repeat: no-repeat;
   background-attachment: fixed;
