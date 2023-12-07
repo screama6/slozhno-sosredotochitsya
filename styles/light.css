@@ -8,6 +8,7 @@
   --text-color-theme: #353430;
   --color-button: #353430;
   background: url(../images/cover-image-light.png);
+  background-position: center;
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
@@ -33,6 +34,7 @@
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
+    background-position: center;
   }
 
   .decor-element {
