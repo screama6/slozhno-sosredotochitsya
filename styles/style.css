@@ -263,6 +263,10 @@
     width: auto;
   }
 
+  .section__galary {
+    gap: 20px;
+  }
+
   .images__conteiner {
     grid-template-columns: repeat(3, 1fr);
     grid-template-rows: minmax(auto, 100%);
