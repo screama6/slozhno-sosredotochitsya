@@ -1,4 +1,9 @@
-/*
-  Переменные для вашего проекта
-  и их переопределение под различные устройства
-*/
+:root {
+  --accent-color-theme: #ff0070;
+  --color-title-decor: #ff0070;
+  --opacity-hover-color-theme: #FF007066;
+  --title-color-theme: #DB00FF;
+  --content-decor-color-theme: #000028;
+  --text-color-theme: #F1B2CE;
+  --site-padding: clamp(0.625rem, 0.0286rem + 2.5445vw, 1.25rem);
+}
