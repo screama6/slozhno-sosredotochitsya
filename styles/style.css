@@ -259,6 +259,10 @@
     width: auto;
   }
 
+  .heading_content-normal {
+    width: auto;
+  }
+
   .images__conteiner {
     grid-template-columns: repeat(3, 1fr);
     grid-template-rows: minmax(auto, 100%);
