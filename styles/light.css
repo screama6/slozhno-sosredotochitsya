@@ -23,9 +23,13 @@
     --content-decor-color-theme: #353430;
     --color-button: #353430;
     --text-color-theme: #353430;
+    
+  } 
+  .page {
+    background-image: url(../images/cover-image-light.png);
   }
 
-.decor-element {
+  .decor-element {
     opacity: 0;
   }
 }
