@@ -7,9 +7,4 @@
   --color-background-theme: #000028;
   --text-color-theme: #F1B2CE;
   --color-button: #ff0070;
-  background: url(../images/cover-image-dark.png);
-  background-position: center;
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size: cover;
 }

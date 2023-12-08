@@ -7,11 +7,7 @@
   --color-background-theme: #FF8DCB;
   --text-color-theme: #353430;
   --color-button: #353430;
-  background: url(../images/cover-image-light.png);
-  background-position: center;
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size: cover;
+  background-image: url(../images/cover-image-light.png);
 }
 
 .theme_light .decor-element {
@@ -29,15 +25,7 @@
     --text-color-theme: #353430;
   }
 
-  .page {
-    background: url(../images/cover-image-light.png);
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-size: cover;
-    background-position: center;
-  }
-
-  .decor-element {
+.decor-element {
     opacity: 0;
   }
 }
