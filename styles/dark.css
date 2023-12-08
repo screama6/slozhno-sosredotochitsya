@@ -8,10 +8,12 @@
   --text-color-theme: #F1B2CE;
   --color-button: #ff0070;
   background-image: url(../images/cover-image-dark.png);
+  background-color: var(--color-background-theme);
 }
 
 @media (prefers-color-scheme: dark) {
   .page {
     background-image: url(../images/cover-image-dark.png);
+    background-color: var(--color-background-theme);
   }
 }
