@@ -179,12 +179,12 @@
 }
 
 .content-link:hover {
-  border-bottom: 1px solid var(--color-button);
+  border-bottom: 1px solid var(--text-color-theme);
   outline: none;
 }
 
 .content-link:focus-visible {
-  outline: 1px solid var(--opacity-hover-color-theme);
+  outline: 1px solid var(--text-color-theme);
 }
 
 .text-shadow {

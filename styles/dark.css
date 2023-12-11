@@ -11,9 +11,17 @@
   background-color: var(--color-background-theme);
 }
 
+.theme_dark .decor-element {
+  opacity: 1;
+}
+
 @media (prefers-color-scheme: dark) {
   .page {
     background-image: url(../images/cover-image-dark.png);
     background-color: var(--color-background-theme);
+  }
+
+  .decor-element {
+    opacity: 1;
   }
 }
